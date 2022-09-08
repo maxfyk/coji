@@ -7,3 +7,6 @@
 [submodule "detectron2-coji-pieces-recognition"]
 	path = detectron2-coji-pieces-recognition
 	url = https://github.com/maxfyk/detectron2-coji-pieces-recognition.git
+[submodule "coji-web"]
+	path = coji-web
+	url = https://github.com/maxfyk/coji-web.git
