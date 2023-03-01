@@ -10,3 +10,9 @@
 [submodule "coji-web"]
 	path = coji-web
 	url = https://github.com/maxfyk/coji-web.git
+[submodule "coji-api-mvp"]
+	path = coji-api-mvp
+	url = https://github.com/maxfyk/coji-api-mvp
+[submodule "coji-web-mvp"]
+	path = coji-web-mvp
+	url = https://github.com/maxfyk/coji-web-mvp
